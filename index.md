@@ -2,7 +2,7 @@
 
 On this page there will be infomrmation about my projects and what I have done to each project. This page will also contain an updated list of languages I am profecient in as well as languages I'm currently learning.
 
-## Languages Profcient In
+## Languages proficient In
   * Java
   * Python
  
