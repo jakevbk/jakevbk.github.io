@@ -12,7 +12,7 @@ On this page there will be infomrmation about my projects and what I have done t
   * SQL
  
 ## Projects By Courses
- The course will be listed and then a sort description of the project
+ The course will be listed and then a short description of the project(s) separated with an empty line
  
 ### CIS 162 (Computer Science 1) Summer 2020
 Create a simulation of a phone and calculate the phone bill based on texting and data rates using java. Wifi could be enabled to not use data. Data rates started with a base fee and then additionals charges for each GB over. Data was consumed by streaming audio or videos.
