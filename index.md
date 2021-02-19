@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jakevbk/jakevbk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+On this page there will be infomrmation about my projects and what I have done to each project. This page will also contain an updated list of languages I am profecient in as well as languages I'm currently learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jakevbk/jakevbk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Languages Profcient In
+  * Java
+  * Python
+ 
+ ## Languages Currently Learning
+  * Unity
+  * C
+  * SQL
+ 
+ ## Projects By Courses
+ The course will be listed and then a sort description of the project
+ 
+   ### CIS 162 (Computer Science 1) Summer 2020
+    Create a simulation of a phone and calculate the phone bill based on texting and data rates using java. Wifi could be enabled to not use data. Data rates started with a base fee and then additionals charges for each GB over. Data was consumed by streaming audio or videos.
+ 
+    Read and load a CSV file about covid data using java. Use the data inputted to show top 10 states with most cases overall or for a specific date. Also determined if a state was able to open based on continous days of declining cases.
+   
+   ### CIS 163 (Computer Science 2) Fall 2020
+     Create a simulation of 3 ATMs using java. Allow for depositing and withdrawal of money. Must ensure there is sufficent funds as well as sufficent bills for a withdrawal. Fail safe to turn off all 3 ATMs. Save and load ATMs for future use. Can also compare ATMs. 
+     
+     Create and manage a game store using java. Rent games and/or consoles. Give an estimated cost based on rental date and return. When games and/or console is returned calculate actual payment and accept payment. Sort the renters data using streams and lambdas. A later modification changed sorting to be based on a double linked list without a tail.
+     
+   ### MTH 225 (Discrete Structures 1) Fall 2020
+     Use python and a juypter notebook to create code to follow given sequences such as arithmetic and geometric sequences. Start at a specifed index and end with another specifed index. This project also used recurrsion to determine if a given sequence would be k constant for a given sequence.
