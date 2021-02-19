@@ -6,15 +6,15 @@ On this page there will be infomrmation about my projects and what I have done t
   * Java
   * Python
  
- ## Languages Currently Learning
+## Languages Currently Learning
   * Unity
   * C
   * SQL
  
- ## Projects By Courses
+## Projects By Courses
  The course will be listed and then a sort description of the project
  
- ### CIS 162 (Computer Science 1) Summer 2020
+### CIS 162 (Computer Science 1) Summer 2020
 Create a simulation of a phone and calculate the phone bill based on texting and data rates using java. Wifi could be enabled to not use data. Data rates started with a base fee and then additionals charges for each GB over. Data was consumed by streaming audio or videos.
  
 Read and load a CSV file about covid data using java. Use the data inputted to show top 10 states with most cases overall or for a specific date. Also determined if a state was able to open based on continous days of declining cases.
