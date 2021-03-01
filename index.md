@@ -2,6 +2,10 @@
 
 On this page there will be infomrmation about my projects and what I have done to each project. This page will also contain an updated list of languages I am profecient in as well as languages I'm currently learning.
 
+## Why Computer Science?
+
+Technology is becoming more diverse and universal than ever. For example, there are now major crypto currencies. A few decades ago many people could have not ever imagined digital currency being a possibility. I want to be a part of the changing world. My passion for technology and the future makes a great reason for me to major in Computer Science. I want to make our current world more efficent, fun, and safer by using computer technology. This could mean many things. I could help build the first fully autonomous vechile, increase testing of medical equipment, mine cyrptos, make video games, and many other various possibilities that our mind can not even encapsulate at this time. I want to connect the world and all people using the technology at our disposal. The best thing about being part of the computer science field is that the possibilities are endless. WE can change the world forever!
+
 ## Languages proficient In
   * Java
   * Python
